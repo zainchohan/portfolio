@@ -1,0 +1,518 @@
+@media screen and (min-width: 600px) and (max-width: 960px), (min-device-width: 600px) and
+(max-device-width: 960px) and (orientation : landscape) {
+.top-bar .top-bar-section ul {
+	background:#292c31 !important;	
+
+}
+.top-bar .top-bar-section ul li:not(.has-form) a:not(.button) {
+	color:#fff !important;	
+	line-height:20px !important;
+} 
+.top-bar .top-bar-section li ul.dropdown {
+	background:#fff !important;
+	color:#000 !important;	
+}
+.top-bar .top-bar-section li ul.dropdown li a {
+	color:#000 !important;
+}
+.top-bar .top-bar-section li ul.dropdown li a:not(.button):hover, .top-bar .top-bar-section li ul.dropdown li a:not(.button) {
+	color:#222 !important;
+}
+.top-bar .has-dropdown > a:after {
+	margin-top:0px !important;	
+}
+.lang {
+	padding-top:15px;
+	padding-bottom:15px;	
+}
+}
+@media screen and (max-width: 600px), (min-device-width: 600px) and (max-device-width: 960px) and (orientation : portrait) {
+/* CSS */ 
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px), (min-device-width: 768px) and
+(max-device-width: 1024px) and (orientation : landscape) {
+.top-bar .top-bar-section ul {
+	background:none;	
+}
+.top-bar .top-bar-section ul li:not(.has-form) a:not(.button) {
+	color:#000;
+	line-height:58px;
+	background:none;	
+}
+.top-bar .top-bar-section ul li a:hover {
+	color:#2397cd !important;	
+}
+.top-bar .has-dropdown > a:after {
+	margin-top:10px !important;	
+}
+.lang {
+	padding-top:20px !important;
+	border-top:#fff thin solid !important;	
+}
+
+}
+@media screen and (max-width: 768px), (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+.top-bar .top-bar-section ul {
+	background:#292c31;	
+
+}
+.top-bar .top-bar-section ul li:not(.has-form) a:not(.button) {
+	color:#fff;
+		
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px), (min-device-width: 320px) and
+(max-device-width: 480px) and (orientation : landscape) {
+.client-wrapper .controls .left {
+	left:40% !important;
+}
+.client-wrapper .controls .right {
+	right:32% !important;
+}
+}
+@media screen and (max-width: 320px), (min-device-width: 320px) and (max-device-width: 480px) and (orientation : portrait) {
+.client-wrapper .controls .left {
+	left:38% !important;
+}
+.client-wrapper .controls .right {
+	right:28% !important;
+}
+}
+@media screen and (min-device-width: 320px) and
+(max-device-width: 568px) and (orientation : landscape) {
+.client-wrapper .controls .right {
+    right: 43% !important;
+}
+.client-wrapper .controls .left {
+    left: 40% !important;
+}
+}
+@media screen and (min-width: 600px) and (max-width: 960px), (min-device-width: 600px) and
+(max-device-width: 960px) and (orientation : landscape) {
+.tab-ctrl .controls .left {
+	left: 45% !important;
+    top: 0 !important;
+    position: relative;	
+}
+.tab-ctrl .controls .right {
+	right: 40% !important;
+    top: 0 !important;
+    position: relative;
+}
+}
+
+@media screen and (min-width: 360px) and (max-width: 640px), (min-device-width: 360px) and
+(max-device-width: 640px) and (orientation : landscape) {
+/* CSS */ 
+}
+.tab-ctrl .controls .left {
+	left: 45% !important;
+    top: 0 !important;
+    position: relative;	
+}
+.tab-ctrl .controls .right {
+	right: 40% !important;
+    top: 0 !important;
+    position: relative;
+}
+}
+.tab-ctrl .controls .right {
+	right:0 !important;	
+}
+.tab-ctrl .controls .left {
+	left:0 !important;	
+}
+}
+
+@media screen and (max-width: 360px), (min-device-width: 360px) and (max-device-width: 640px) and (orientation : portrait) {
+.client-wrapper .controls .right {
+	right:30% !important;	
+}
+}
+
+ @media screen and (max-width: 767px) {
+	 .portfolio {
+			padding-bottom:30px; 
+	 }
+	 .top-bar-section .dropdown li.title h5 {
+		margin-top:0px; 
+	 }
+	 .top-bar-section .dropdown li a {
+		padding:10px 35px 10px 15px !important; 
+	 }
+	 .top-bar.expanded {
+		 
+	 }
+	 .flg-wrap{
+		top:0px;
+		z-index:99;
+		
+	 }
+	 form .inputError, .inputError, #clsNewsletter .inputError {
+		border-top-right-radius:15px !important;
+		border-bottom-right-radius:15px !important;
+
+	 }
+	 #clsNewsletterField {
+		 border-top-right-radius:15px !important;
+		border-bottom-right-radius:15px !important;
+	 }
+	 .ftr-menu {
+		padding:0px; 
+	 }
+	 .hiring {
+		margin-left:0px; 
+	 }
+	 .dwd-btn {
+		margin-top:15px;
+		margin-bottom:15px;
+		float:none;
+		clear:both; 
+	 }
+	 .inr-us {
+		margin-top:70px; 
+	 }
+	 .right-sec {
+		padding-left:0px !important;
+		border:none; 
+	 }
+	 .professional {
+	margin-right:0px !important;
+	margin-left:0px !important;
+	width:100% !important;
+	margin-top:10px;
+	margin-bottom:10px;	
+}
+	  .top-bar .has-dropdown > a:after {
+  border-color: #fff transparent transparent;
+  margin-top: 20px;
+}
+	 .top-bar .toggle-topbar.menu-icon {
+		z-index:9999;
+		margin-top:0;
+		right:5px; 
+	 }
+.client-wrapper .controls .right {
+	right: 30%;
+}
+.contact-home-form {
+	background-position: fixed;
+	background-size: cover;
+	height: auto;
+}
+.mob-clr {
+	clear: both;
+	padding-top: 15px;
+}
+.client-wrapper {
+	background-position: fixed;
+	background-size: cover;
+	height: auto;
+}
+.mob-select .select-wrapper {
+	float: right !important;
+}
+.news-letter-wrap .input-group {
+	margin-left:0px;
+}
+.news-letter-wrap .input-group .input-group-addon {
+	padding: 10px 15px;
+}
+.news-letter-wrap .btn-warning {
+	border-radius: 10px !important;
+	clear: both;
+	float: none;
+	position: inherit;
+	margin: 0 auto;
+}
+.news-letter-wrap h2 {
+	margin-bottom: 30px;
+}
+.compatible h1 {
+	text-align: left;
+}
+.mob-fl-r {
+	float: right !important;
+	padding-right: 0px !important;
+	width: 38%;
+}
+.client-wrapper .controls {
+	top: -45px;
+}
+.client-wrapper .controls .left {
+	left: 35%;
+}
+.social-media {
+	padding-left: 0px !important;
+}
+.social-media h1 {
+	text-align: left;
+}
+.social-media ul {
+	text-align: left;
+}
+.compatible {
+	padding-left: 30px;
+}
+.go-dady-left {
+	float: left !important;
+}
+.copy {
+	text-align: center !important;
+	width: 100% !important;
+	float: none !important;
+	clear: both;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.news-letter-wrap h1 {
+	margin-top: 75px;
+}
+.timeline {
+	margin: 0px;
+}
+ul.timeline > li > .timeline-badge {
+	width: inherit !important;
+	position: inherit !important;
+	left: 0px;
+}
+ul.timeline:before {
+	left: 50%;
+}
+.client-wrapper h1 {
+	margin-top: 60px;
+}
+.timeline > li.timeline-inverted > .timeline-panel {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	float: none;
+	padding-top: 35px;
+}
+.col-item {
+	margin-bottom: 20px;
+}
+.controls {
+	width: 100%;
+}
+.controls .left {
+	float: none !important;
+}
+.controls .right {
+	float: none !important;
+}
+.ser-in-text {
+	width: 70%;
+}
+.ser-in-icon {
+	margin-top: 35px;
+}
+.web-ward-head h1 {
+	font-size: 30px;
+}
+.timeline-badge.danger {
+	margin-bottom: 20px;
+}
+.wid-100 {
+	width: 100%;
+	float: none !important;
+}
+.wid-100 .select-wrapper {
+	float: none !important;
+	width: 100% !important;
+}
+.firs-sel {
+	margin-bottom: 25px;
+}
+}
+@media screen and (max-width: 1024px) {
+	.compatible{
+		display:none;	
+	}
+	.go-daddy {
+		display:none;	
+	}
+.header-section {
+	padding-top: 0px;
+	padding-bottom: 0;
+}
+#awesome_video {
+}
+.video-frame {
+	top: 60px;
+	display: none;
+}
+.video-btn-group a {
+	margin-bottom: 10px;
+}
+.serv-bg {
+	display: none;
+}
+.ser-right-align {
+	float: left;
+	padding-right: 10px;
+}
+.ser-right-align h1, .ser-right-align p {
+	text-align: right !important;
+}
+.ser-in-icon-right {
+	float: right !important;
+}
+.service-section {
+	padding-bottom: 50px;
+}
+#awesome_video {
+	background-image: url("assets/images/banner-bg.jpg");
+	
+}
+.video-text {
+	position: relative;
+	top: 70px;
+
+	background-image: url("assets/images/mob-banner-bg.jpg") center no-repeat;
+	
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.video-text h1 {
+	font-size: 28px;
+}
+.video-text h2 {
+	font-size: 40px;
+}
+.kentico {
+	margin-top: 120px;
+	margin-bottom: 0px;
+}
+.top-bar {
+	height: 70px;
+	width:100%;
+}
+.top-bar .has-dropdown > a:after {
+	margin-top: 0px;
+}
+.lang {
+	width: 100%;
+	text-align: center;
+	padding-top: 0px;
+	border-top: #999 thin solid;
+}
+.lang li {
+	text-align: center;
+	display: inline-block;
+}
+.lang li a {
+	line-height: 35px !important;
+	text-align: center;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+.title-area {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+.timeline > li > .timeline-badge {
+	position: inherit;
+	width: 100%;
+}
+.year, .year-2 {
+	float: none;
+	position: inherit;
+	left: inherit;
+	text-align: center;
+	top: 0px;
+	right: 0;
+}
+.timeline:before {
+	top: -20px;
+	display: none;
+}
+ul.timeline > li > .timeline-panel {
+	width: 100%;
+	float: none;
+}
+.timeline-title {
+	text-align: center !important;
+}
+.timeline-body p {
+	text-align: center;
+}
+.tabs nav ul {
+	width: 90% !important;
+}
+.tabs-style-iconbox nav ul li a {
+	padding:1.5em 10px 1.5em !important;	
+}
+}
+
+
+
+@media screen and (max-width: 600px), (min-device-width: 600px) and (max-device-width: 960px) and (orientation : portrait) {
+.tab-ctrl .controls .left {
+	left: 0% !important;
+    top: 0 !important;
+    position: relative;	
+}
+.tab-ctrl .controls .right {
+	right: 0% !important;
+    top: 0 !important;
+    position: relative;
+}
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1024px), (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+.tab-6 {
+	width: 50%;
+	float: left;
+}
+.timeline > li > .timeline-badge {
+	left: 0px;
+	margin-left: 0px;
+}
+.contact-home-form {
+	background-position: fixed;
+	background-size: cover;
+	height: auto;
+}
+.mob-clr {
+	clear: both;
+	padding-top: 25px;
+}
+.client-wrapper .controls .right {
+	right: 44%;
+	top: 125px;
+}
+.client-wrapper .controls .left {
+	left: 44%;
+	top: 125px;
+}
+.news-letter-wrap .btn-warning {
+	left: -40px;
+}
+.news-letter-wrap .input-group .input-group-addon {
+	padding: 10px 15px;
+}
+.col-item {
+	margin-bottom: 30px;
+}
+.tab-ctrl .controls .right {
+	right: 44%;
+	top: 125px;
+}
+.tab-ctrl .controls .left {
+	left: 44%;
+	top: 125px;
+}
+.tab-ctrl .pull-right, .tab-ctrl .controls {
+	float: none !important;
+}
+
+}
+
+
+
+
+
+
